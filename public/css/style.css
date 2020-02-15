@@ -1,0 +1,193 @@
+ .sidebar {
+  margin-top:16px;
+  margin-left: 0px;
+  padding: 0;
+  width: 200px;
+  background-color: #64c9e4!important;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidebar a {
+
+  display: block;
+  color: black;
+  padding: 20px;
+  text-decoration: none;
+}
+ 
+
+
+.sidebar a:hover:not(.active) {
+
+  background-color: #555;
+  color: white;
+}
+
+
+.bg-light {
+	padding: 12px 10px;
+    background-color: #64c9e4!important;
+}
+.main {
+  padding: 16px;
+  margin-top: 58px;
+  margin-left: 185px;
+  height: 1000px; /* Used in this example to enable scrolling */
+}
+footer{
+	padding-top: 100%;
+	margin-right: -13px;
+}
+.text-center{
+	background-color: #c1bbbb;
+	text-decoration-color: white;
+}
+.col-sm-2{
+	background-color: #3bcac0!important;
+
+}
+.list-group-item{
+	background-color: #41f5e9;
+}
+
+
+/* Start input pagetable,th */
+{
+
+		
+		border-collapse: collapse;
+        margin-left: 325px;
+		margin-right: 200px;
+		margin-top: 10px;
+		padding-right: 100px;
+        padding-left: 100px;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		background-color: rgb(255, 255, 230);
+		}
+
+	h1{
+		text-align:center;
+		margin-top: 20px;
+		color:white;
+
+		 
+        text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue
+
+
+	}
+	input[type=submit]{
+  margin-left: 0px;		
+  display: inline-block;
+  padding: 5px 77px;
+  font-size: 12px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: rgb(255, 133, 51);
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 9px #999;
+  width: 240px;
+}
+
+
+		input[type=password]{
+			color:black;
+			 border-radius: 25px;
+			 width: 242px;
+			  height: 35px;
+			background-color:hsla(0, 100%, 50%, 0.3);
+
+		}
+			input[type=email]{
+			color:black;
+			 border-radius: 25px;
+			 width: 242px;
+			 height: 35px;
+			background-color:hsla(0, 100%, 50%, 0.3);
+		}
+				input[type=number]{
+			color:black;
+			 border-radius: 25px;
+			 width: 242px;
+			 height: 35px;
+			background-color:hsla(0, 100%, 50%, 0.3);
+		}
+				input[type=text]{
+			color:black;
+			 border-radius: 25px;
+			 width: 242px;
+			 height: 35px;
+			background-color:hsla(0, 100%, 50%, 0.3);
+		}
+		
+
+/* Start CEO profile*/
+
+		 .table5{
+		 	margin-left: 100px;
+		 	width: 80%;
+		 	background-color:  #ececea;
+		 	margin-top: 20px;
+		 }
+		 .forid{
+		 	padding-left: 50px;
+		 	padding-top: 70px
+		 }
+
+		th, td {
+  border: 1px solid white;
+  
+ 
+}
+.pic{
+	width:200px;
+	height:210px;
+}
+.picth{
+width: 10%;
+}
+.fortd{
+	width: 10px;
+	height: 400px;
+}
+.table6{
+	height: 100%;
+   width: 100%;
+   padding-right: 30px;
+}
+.fixincenter{
+	width: 40%;
+	text-align: right;
+	padding-right: 30px;
+	 
+
+}
+.tr6{
+	background-color:  #ececea;
+}
+.profilebutton
+{}
+ 
+.table7th{
+	padding-top: 20px;
+	padding-left: 425px;
+	
+}
+/* Start CEO atendanse*/
+.card2{
+    width: 100%;
+    border: 1px solid white;
+
+}
+.attendstatus{
+    width: 15%;
+}
+.attenddate{
+    width: 23%;
+}
